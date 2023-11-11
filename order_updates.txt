@@ -1,0 +1,6 @@
+The Order Updates Notification System in Zomato is a vital part of the app. 
+It sends users notifications to keep them informed about their food orders. 
+When a user places an order, they get an immediate confirmation. 
+As the order progresses, the system sends updates on its preparation, cooking status, and when it's out for delivery. 
+This real-time information allows users to track their orders, creating a smooth and interactive experience. 
+Overall, this feature enhances user satisfaction and trust in the Zomato platform.
